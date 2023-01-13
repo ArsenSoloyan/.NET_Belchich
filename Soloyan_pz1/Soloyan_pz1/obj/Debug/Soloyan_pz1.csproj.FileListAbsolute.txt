@@ -1,0 +1,9 @@
+C:\Users\Студент\source\repos\Soloyan_pz1\Soloyan_pz1\bin\Debug\Soloyan_pz1.exe.config
+C:\Users\Студент\source\repos\Soloyan_pz1\Soloyan_pz1\bin\Debug\Soloyan_pz1.exe
+C:\Users\Студент\source\repos\Soloyan_pz1\Soloyan_pz1\bin\Debug\Soloyan_pz1.pdb
+C:\Users\Студент\source\repos\Soloyan_pz1\Soloyan_pz1\obj\Debug\Soloyan_pz1.csprojAssemblyReference.cache
+C:\Users\Студент\source\repos\Soloyan_pz1\Soloyan_pz1\obj\Debug\Soloyan_pz1.Form1.resources
+C:\Users\Студент\source\repos\Soloyan_pz1\Soloyan_pz1\obj\Debug\Soloyan_pz1.Properties.Resources.resources
+C:\Users\Студент\source\repos\Soloyan_pz1\Soloyan_pz1\obj\Debug\Soloyan_pz1.csproj.GenerateResource.cache
+C:\Users\Студент\source\repos\Soloyan_pz1\Soloyan_pz1\obj\Debug\Soloyan_pz1.exe
+C:\Users\Студент\source\repos\Soloyan_pz1\Soloyan_pz1\obj\Debug\Soloyan_pz1.pdb

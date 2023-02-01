@@ -1,0 +1,17 @@
+C:\Users\Ivan\OneDrive\Рабочий стол\Danilo\PZ_4\soloyan_PZ_5\bin\Debug\net6.0-windows\soloyan_PZ_5.exe
+C:\Users\Ivan\OneDrive\Рабочий стол\Danilo\PZ_4\soloyan_PZ_5\bin\Debug\net6.0-windows\soloyan_PZ_5.deps.json
+C:\Users\Ivan\OneDrive\Рабочий стол\Danilo\PZ_4\soloyan_PZ_5\bin\Debug\net6.0-windows\soloyan_PZ_5.runtimeconfig.json
+C:\Users\Ivan\OneDrive\Рабочий стол\Danilo\PZ_4\soloyan_PZ_5\bin\Debug\net6.0-windows\soloyan_PZ_5.dll
+C:\Users\Ivan\OneDrive\Рабочий стол\Danilo\PZ_4\soloyan_PZ_5\bin\Debug\net6.0-windows\soloyan_PZ_5.pdb
+C:\Users\Ivan\OneDrive\Рабочий стол\Danilo\PZ_4\soloyan_PZ_5\obj\Debug\net6.0-windows\soloyan_PZ_5.csproj.AssemblyReference.cache
+C:\Users\Ivan\OneDrive\Рабочий стол\Danilo\PZ_4\soloyan_PZ_5\obj\Debug\net6.0-windows\soloyan_PZ_5.Form1.resources
+C:\Users\Ivan\OneDrive\Рабочий стол\Danilo\PZ_4\soloyan_PZ_5\obj\Debug\net6.0-windows\soloyan_PZ_5.csproj.GenerateResource.cache
+C:\Users\Ivan\OneDrive\Рабочий стол\Danilo\PZ_4\soloyan_PZ_5\obj\Debug\net6.0-windows\soloyan_PZ_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\OneDrive\Рабочий стол\Danilo\PZ_4\soloyan_PZ_5\obj\Debug\net6.0-windows\soloyan_PZ_5.AssemblyInfoInputs.cache
+C:\Users\Ivan\OneDrive\Рабочий стол\Danilo\PZ_4\soloyan_PZ_5\obj\Debug\net6.0-windows\soloyan_PZ_5.AssemblyInfo.cs
+C:\Users\Ivan\OneDrive\Рабочий стол\Danilo\PZ_4\soloyan_PZ_5\obj\Debug\net6.0-windows\soloyan_PZ_5.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\OneDrive\Рабочий стол\Danilo\PZ_4\soloyan_PZ_5\obj\Debug\net6.0-windows\soloyan_PZ_5.dll
+C:\Users\Ivan\OneDrive\Рабочий стол\Danilo\PZ_4\soloyan_PZ_5\obj\Debug\net6.0-windows\refint\soloyan_PZ_5.dll
+C:\Users\Ivan\OneDrive\Рабочий стол\Danilo\PZ_4\soloyan_PZ_5\obj\Debug\net6.0-windows\soloyan_PZ_5.pdb
+C:\Users\Ivan\OneDrive\Рабочий стол\Danilo\PZ_4\soloyan_PZ_5\obj\Debug\net6.0-windows\soloyan_PZ_5.genruntimeconfig.cache
+C:\Users\Ivan\OneDrive\Рабочий стол\Danilo\PZ_4\soloyan_PZ_5\obj\Debug\net6.0-windows\ref\soloyan_PZ_5.dll

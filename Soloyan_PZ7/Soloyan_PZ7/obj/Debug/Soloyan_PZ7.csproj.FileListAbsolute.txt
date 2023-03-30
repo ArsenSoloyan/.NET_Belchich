@@ -1,0 +1,11 @@
+D:\Job\C++\Soloyan_PZ7\Soloyan_PZ7\obj\Debug\Soloyan_PZ7.csproj.AssemblyReference.cache
+D:\Job\C++\Soloyan_PZ7\Soloyan_PZ7\obj\Debug\Soloyan_PZ7.csproj.SuggestedBindingRedirects.cache
+D:\Job\C++\Soloyan_PZ7\Soloyan_PZ7\obj\Debug\Soloyan_PZ7.Form1.resources
+D:\Job\C++\Soloyan_PZ7\Soloyan_PZ7\obj\Debug\Soloyan_PZ7.Properties.Resources.resources
+D:\Job\C++\Soloyan_PZ7\Soloyan_PZ7\obj\Debug\Soloyan_PZ7.csproj.GenerateResource.cache
+D:\Job\C++\Soloyan_PZ7\Soloyan_PZ7\obj\Debug\Soloyan_PZ7.csproj.CoreCompileInputs.cache
+D:\Job\C++\Soloyan_PZ7\Soloyan_PZ7\bin\Debug\Soloyan_PZ7.exe.config
+D:\Job\C++\Soloyan_PZ7\Soloyan_PZ7\bin\Debug\Soloyan_PZ7.exe
+D:\Job\C++\Soloyan_PZ7\Soloyan_PZ7\bin\Debug\Soloyan_PZ7.pdb
+D:\Job\C++\Soloyan_PZ7\Soloyan_PZ7\obj\Debug\Soloyan_PZ7.exe
+D:\Job\C++\Soloyan_PZ7\Soloyan_PZ7\obj\Debug\Soloyan_PZ7.pdb

@@ -1,0 +1,11 @@
+D:\Job\C++\PZ_8\PZ_8\bin\Debug\PZ_8.exe.config
+D:\Job\C++\PZ_8\PZ_8\bin\Debug\PZ_8.exe
+D:\Job\C++\PZ_8\PZ_8\bin\Debug\PZ_8.pdb
+D:\Job\C++\PZ_8\PZ_8\obj\Debug\PZ_8.csproj.AssemblyReference.cache
+D:\Job\C++\PZ_8\PZ_8\obj\Debug\PZ_8.csproj.SuggestedBindingRedirects.cache
+D:\Job\C++\PZ_8\PZ_8\obj\Debug\PZ_8.Form1.resources
+D:\Job\C++\PZ_8\PZ_8\obj\Debug\PZ_8.Properties.Resources.resources
+D:\Job\C++\PZ_8\PZ_8\obj\Debug\PZ_8.csproj.GenerateResource.cache
+D:\Job\C++\PZ_8\PZ_8\obj\Debug\PZ_8.csproj.CoreCompileInputs.cache
+D:\Job\C++\PZ_8\PZ_8\obj\Debug\PZ_8.exe
+D:\Job\C++\PZ_8\PZ_8\obj\Debug\PZ_8.pdb
